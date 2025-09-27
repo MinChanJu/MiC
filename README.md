@@ -1,4 +1,4 @@
-# MiC (Math in Coding)
+# MiC (Mathematics in Coding)
 
 온라인 프로그래밍 대회 및 문제 관리 시스템
 
